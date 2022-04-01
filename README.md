@@ -3,3 +3,6 @@ My name is M.K. Buddhi Kaushalya. I'm a hardworking and ambitious individual wit
 I'm skilled in both Software and Hardware. Moreover, I m Interested in web designing, desktop application development, Mobile application development, and Microsoft office package as well.
 
 Leadership, teamwork, coding, creative thinking, and better communication skills are enabling me to effectively work with a wide range of people.
+
+
+[![Kaushalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT20118372)](https://github.com/IT20118372/github-readme-stats)
