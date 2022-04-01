@@ -8,3 +8,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT20118372&theme=tokyonight)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IT20118372"/>
