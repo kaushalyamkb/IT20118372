@@ -4,5 +4,4 @@ I'm skilled in both Software and Hardware. Moreover, I m Interested in web desig
 
 Leadership, teamwork, coding, creative thinking, and better communication skills are enabling me to effectively work with a wide range of people.
 
-
-[![Kaushalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT20118372)](https://github.com/IT20118372/github-readme-stats)
+![Kaushalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT20118372&show_icons=true&theme=radical)
