@@ -5,3 +5,6 @@
 💻 Leadership, teamwork, coding, creative thinking, and better communication skills are enabling me to effectively work with a wide range of people.
 
 ![Kaushalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT20118372&show_icons=true&theme=blue-green)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT20118372&theme=tokyonight)
